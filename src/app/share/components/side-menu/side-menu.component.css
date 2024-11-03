@@ -1,0 +1,7 @@
+.active {
+  background-color: rgb(174, 44, 185);
+
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+  color: white;
+}
