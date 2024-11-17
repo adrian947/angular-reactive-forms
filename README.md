@@ -22,3 +22,9 @@
 - Separar la lógica de validaciones
 - Estado del formulario
 - Mensajes de error personalizados
+
+## temario curso seccion 19 - formularios reactivos - Selectores anidados
+
+- Selectores anidados
+- Llenar selectores desde peticiones HTTP
+- Encadenamiento de operadores de RXJS
