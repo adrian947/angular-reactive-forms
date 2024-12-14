@@ -8,6 +8,11 @@ const routes: Routes = [
       import('./reactive/reactive.module').then((m) => m.ReactiveModule),
   },
   {
+    path: 'life-cycle',
+    loadChildren: () =>
+      import('./lifecycle/lifecycle.module').then((m) => m.LifecycleModule),
+  },
+  {
     path: 'auth',
     loadChildren: () => import('./auth/auth.module').then((m) => m.AuthModule),
   },

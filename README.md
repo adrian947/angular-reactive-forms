@@ -28,3 +28,9 @@
 - Selectores anidados
 - Llenar selectores desde peticiones HTTP
 - Encadenamiento de operadores de RXJS
+
+## temario curso seccion 20 - Life cycle
+
+- Todos los ciclos de vida de los componentes de angular
+- @input
+- @output
